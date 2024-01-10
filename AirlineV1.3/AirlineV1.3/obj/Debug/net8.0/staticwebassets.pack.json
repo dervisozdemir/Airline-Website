@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AirlineV1.3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AirlineV1.3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\contactscs.html",
+      "PackagePath": "staticwebassets\\contactscs.html"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\bg_footer.gif",
+      "PackagePath": "staticwebassets\\images\\bg_footer.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\bg_img.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\bg_top.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\bg_top2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_top2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\bg_top_img.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_top_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\button_1.gif",
+      "PackagePath": "staticwebassets\\images\\button_1.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\button_active.gif",
+      "PackagePath": "staticwebassets\\images\\button_active.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\check.gif",
+      "PackagePath": "staticwebassets\\images\\check.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\help.gif",
+      "PackagePath": "staticwebassets\\images\\help.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\icon1.jpg",
+      "PackagePath": "staticwebassets\\images\\icon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\icon4.jpg",
+      "PackagePath": "staticwebassets\\images\\icon4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\icon5.jpg",
+      "PackagePath": "staticwebassets\\images\\icon5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\img_top1.gif",
+      "PackagePath": "staticwebassets\\images\\img_top1.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\img_top2.gif",
+      "PackagePath": "staticwebassets\\images\\img_top2.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\img_top3.gif",
+      "PackagePath": "staticwebassets\\images\\img_top3.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_1.gif",
+      "PackagePath": "staticwebassets\\images\\marker_1.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_2.gif",
+      "PackagePath": "staticwebassets\\images\\marker_2.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_3.gif",
+      "PackagePath": "staticwebassets\\images\\marker_3.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_4.gif",
+      "PackagePath": "staticwebassets\\images\\marker_4.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_left.gif",
+      "PackagePath": "staticwebassets\\images\\marker_left.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\marker_right.gif",
+      "PackagePath": "staticwebassets\\images\\marker_right.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_bg.gif",
+      "PackagePath": "staticwebassets\\images\\menu_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_left.gif",
+      "PackagePath": "staticwebassets\\images\\menu_left.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_left.png",
+      "PackagePath": "staticwebassets\\images\\menu_left.png"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_line.gif",
+      "PackagePath": "staticwebassets\\images\\menu_line.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_right.gif",
+      "PackagePath": "staticwebassets\\images\\menu_right.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\menu_right.png",
+      "PackagePath": "staticwebassets\\images\\menu_right.png"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\opacity_50_black.png",
+      "PackagePath": "staticwebassets\\images\\opacity_50_black.png"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page1_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page1_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page1_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page1_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page2_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page2_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page2_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page2_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page2_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\page2_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page5_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page5_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\page5_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page5_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\radio.png",
+      "PackagePath": "staticwebassets\\images\\radio.png"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\select.gif",
+      "PackagePath": "staticwebassets\\images\\select.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\tabs.gif",
+      "PackagePath": "staticwebassets\\images\\tabs.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\images\\tabs_active.gif",
+      "PackagePath": "staticwebassets\\images\\tabs_active.gif"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\offers.html",
+      "PackagePath": "staticwebassets\\offers.html"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\safety.html",
+      "PackagePath": "staticwebassets\\safety.html"
+    },
+    {
+      "Id": "C:\\Users\\dervi\\source\\repos\\AirlineV1.3\\AirlineV1.3\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AirlineV1.3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AirlineV1.3.props",
+      "PackagePath": "build\\AirlineV1.3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AirlineV1.3.props",
+      "PackagePath": "buildMultiTargeting\\AirlineV1.3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AirlineV1.3.props",
+      "PackagePath": "buildTransitive\\AirlineV1.3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
