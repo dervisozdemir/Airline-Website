@@ -1,1 +1,1 @@
-BLM4531 Ağ Tabanlı Teklonojiler ve Uygulamarı Dersi Projesi
+BLM4531 Ağ Tabanlı Teknolojiler ve Uygulamaları Dersi Projesi
